@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/PlaceTux Overlay
+// @name         NotITG
 // @namespace    https://github.com/r-PlaceTux/Overlay
 // @version      1.0.5
 // @description  FLOSS forever!
